@@ -1,5 +1,5 @@
 # aws-s3-upload-html-php
-This sets up a simple web page to upload S3 assets to a bucket.  Example: This let's you upload an image file and get a URL back.  This is useful if you want less technical people to upload things to a bucket, but don't want to give access to an AWS console. 
+This sets up a simple web page to upload S3 assets to a bucket.  Example: This let's you upload an image file and get a URL back.  This is useful if you want people to upload things to a bucket, but don't want to give access to an AWS console. 
 
 # How to run it 
 
