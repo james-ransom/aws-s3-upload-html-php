@@ -24,6 +24,3 @@ To use:
   
    http://localhost:8080/upload.php
    
-# Example of it running
-
-<img src="https://afterschool-mobile-configurations.s3.amazonaws.com/Screen%20Shot%202019-01-16%20at%2012.50.14%20PM.png"  width="300px" >
